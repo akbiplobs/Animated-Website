@@ -1,2 +1,2 @@
 # Animated-Website
-https://akbiplobsa.github.io/Animated-Website/
+https://akbiplobs.github.io/Animated-Website/
